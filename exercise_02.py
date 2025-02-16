@@ -1,7 +1,3 @@
-Formatted Output using f-strings:
-Integer: 123
-Decimal: 3.14
-String: Hello, Python!
 user_integer = int(input("Enter an integer: "))
 user_decimal = float(input("Enter a decimal number: "))
 user_text = input("Enter a string: ")
