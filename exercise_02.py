@@ -1,10 +1,3 @@
-Enter an integer: 123
-Enter a decimal number: 3.14159
-Enter a string: Hello, Python!
-Formatted Output using old-style formatting:
-Integer: 123
-Decimal: 3.14
-String: Hello, Python!
 Formatted Output using f-strings:
 Integer: 123
 Decimal: 3.14
